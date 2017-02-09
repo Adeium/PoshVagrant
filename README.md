@@ -1,2 +1,2 @@
 # PoshVagrant
-ALPHA - A PowerShell wrapper for the Vagrant windows client, vagrant.exe
+ALPHA - A PowerShell module which functions as a wrapper for the Vagrant windows client, vagrant.exe
